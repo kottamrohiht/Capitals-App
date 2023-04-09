@@ -1,0 +1,26 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+}
+
+.inner-container {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.select-item-container {
+  display: flex;
+  align-items: center;
+}
+
+.para {
+  margin-left: 10px;
+}
+.countryName {
+  color: black;
+}
